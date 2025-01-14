@@ -1,0 +1,64 @@
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\Inteligenţă artificială\YahtzeeGame_Project\obj\Debug\net8.0-windows\YahtzeeGame_Project.Form1.resources
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\Inteligenţă artificială\YahtzeeGame_Project\obj\Debug\net8.0-windows\YahtzeeProject.GameForm.resources
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\Inteligenţă artificială\YahtzeeGame_Project\obj\Debug\net8.0-windows\YahtzeeGame_Project.csproj.GenerateResource.cache
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\Inteligenţă artificială\YahtzeeGame_Project\obj\Debug\net8.0-windows\YahtzeeGame_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\Inteligenţă artificială\YahtzeeGame_Project\obj\Debug\net8.0-windows\YahtzeeGame_Project.AssemblyInfoInputs.cache
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\Inteligenţă artificială\YahtzeeGame_Project\obj\Debug\net8.0-windows\YahtzeeGame_Project.AssemblyInfo.cs
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\Inteligenţă artificială\YahtzeeGame_Project\obj\Debug\net8.0-windows\YahtzeeGame_Project.csproj.CoreCompileInputs.cache
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\Inteligenţă artificială\YahtzeeGame_Project\bin\Debug\net8.0-windows\YahtzeeGame_Project.exe
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\Inteligenţă artificială\YahtzeeGame_Project\bin\Debug\net8.0-windows\YahtzeeGame_Project.deps.json
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\Inteligenţă artificială\YahtzeeGame_Project\bin\Debug\net8.0-windows\YahtzeeGame_Project.runtimeconfig.json
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\Inteligenţă artificială\YahtzeeGame_Project\bin\Debug\net8.0-windows\YahtzeeGame_Project.dll
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\Inteligenţă artificială\YahtzeeGame_Project\bin\Debug\net8.0-windows\YahtzeeGame_Project.pdb
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\Inteligenţă artificială\YahtzeeGame_Project\obj\Debug\net8.0-windows\YahtzeeGame_Project.dll
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\Inteligenţă artificială\YahtzeeGame_Project\obj\Debug\net8.0-windows\refint\YahtzeeGame_Project.dll
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\Inteligenţă artificială\YahtzeeGame_Project\obj\Debug\net8.0-windows\YahtzeeGame_Project.pdb
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\Inteligenţă artificială\YahtzeeGame_Project\obj\Debug\net8.0-windows\YahtzeeGame_Project.genruntimeconfig.cache
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\SEM I\Inteligenţă artificială\YahtzeeGame_Project\obj\Debug\net8.0-windows\ref\YahtzeeGame_Project.dll
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\AI-2024-Yahtzee\YahtzeeGame_Project\bin\Debug\net8.0-windows\YahtzeeGame_Project.exe
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\AI-2024-Yahtzee\YahtzeeGame_Project\bin\Debug\net8.0-windows\YahtzeeGame_Project.deps.json
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\AI-2024-Yahtzee\YahtzeeGame_Project\bin\Debug\net8.0-windows\YahtzeeGame_Project.runtimeconfig.json
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\AI-2024-Yahtzee\YahtzeeGame_Project\bin\Debug\net8.0-windows\YahtzeeGame_Project.dll
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\AI-2024-Yahtzee\YahtzeeGame_Project\bin\Debug\net8.0-windows\YahtzeeGame_Project.pdb
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\AI-2024-Yahtzee\YahtzeeGame_Project\obj\Debug\net8.0-windows\YahtzeeGame_Project.Form1.resources
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\AI-2024-Yahtzee\YahtzeeGame_Project\obj\Debug\net8.0-windows\YahtzeeProject.GameForm.resources
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\AI-2024-Yahtzee\YahtzeeGame_Project\obj\Debug\net8.0-windows\YahtzeeGame_Project.csproj.GenerateResource.cache
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\AI-2024-Yahtzee\YahtzeeGame_Project\obj\Debug\net8.0-windows\YahtzeeGame_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\AI-2024-Yahtzee\YahtzeeGame_Project\obj\Debug\net8.0-windows\YahtzeeGame_Project.AssemblyInfoInputs.cache
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\AI-2024-Yahtzee\YahtzeeGame_Project\obj\Debug\net8.0-windows\YahtzeeGame_Project.AssemblyInfo.cs
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\AI-2024-Yahtzee\YahtzeeGame_Project\obj\Debug\net8.0-windows\YahtzeeGame_Project.csproj.CoreCompileInputs.cache
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\AI-2024-Yahtzee\YahtzeeGame_Project\obj\Debug\net8.0-windows\YahtzeeGame_Project.sourcelink.json
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\AI-2024-Yahtzee\YahtzeeGame_Project\obj\Debug\net8.0-windows\YahtzeeGame_Project.dll
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\AI-2024-Yahtzee\YahtzeeGame_Project\obj\Debug\net8.0-windows\refint\YahtzeeGame_Project.dll
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\AI-2024-Yahtzee\YahtzeeGame_Project\obj\Debug\net8.0-windows\YahtzeeGame_Project.pdb
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\AI-2024-Yahtzee\YahtzeeGame_Project\obj\Debug\net8.0-windows\YahtzeeGame_Project.genruntimeconfig.cache
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\AI-2024-Yahtzee\YahtzeeGame_Project\obj\Debug\net8.0-windows\ref\YahtzeeGame_Project.dll
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\AI-2024-Yahtzee\YahtzeeGame_Project\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\AI-2024-Yahtzee\YahtzeeGame_Project\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\AI-2024-Yahtzee\YahtzeeGame_Project\bin\Debug\net8.0-windows\System.Windows.Forms.DataVisualization.dll
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\AI-2024-Yahtzee\YahtzeeGame_Project\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\AI-2024-Yahtzee\YahtzeeGame_Project\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\AI-2024-Yahtzee\YahtzeeGame_Project\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\AI-2024-Yahtzee\YahtzeeGame_Project\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\AI-2024-Yahtzee\YahtzeeGame_Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\AI-2024-Yahtzee\YahtzeeGame_Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\AI-2024-Yahtzee\YahtzeeGame_Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\AI-2024-Yahtzee\YahtzeeGame_Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\AI-2024-Yahtzee\YahtzeeGame_Project\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\AI-2024-Yahtzee\YahtzeeGame_Project\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\AI-2024-Yahtzee\YahtzeeGame_Project\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\AI-2024-Yahtzee\YahtzeeGame_Project\bin\Debug\net8.0-windows\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\AI-2024-Yahtzee\YahtzeeGame_Project\bin\Debug\net8.0-windows\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\AI-2024-Yahtzee\YahtzeeGame_Project\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\AI-2024-Yahtzee\YahtzeeGame_Project\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\AI-2024-Yahtzee\YahtzeeGame_Project\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\AI-2024-Yahtzee\YahtzeeGame_Project\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\AI-2024-Yahtzee\YahtzeeGame_Project\bin\Debug\net8.0-windows\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\AI-2024-Yahtzee\YahtzeeGame_Project\obj\Debug\net8.0-windows\YahtzeeGame_Project.csproj.AssemblyReference.cache
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\AI-2024-Yahtzee\YahtzeeGame_Project\obj\Debug\net8.0-windows\YahtzeeG.D963C2B6.Up2Date
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\AI-2024-Yahtzee\YahtzeeGame_Project\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\AI-2024-Yahtzee\YahtzeeGame_Project\bin\Debug\net8.0-windows\RestSharp.dll
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\AI-2024-Yahtzee\YahtzeeGame_Project\bin\Debug\net8.0-windows\Azure.AI.OpenAI.dll
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\AI-2024-Yahtzee\YahtzeeGame_Project\bin\Debug\net8.0-windows\OpenAI.dll
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\AI-2024-Yahtzee\YahtzeeGame_Project\bin\Debug\net8.0-windows\System.ClientModel.dll
+C:\Users\cosmi\OneDrive\Desktop\ANUL III\AI-2024-Yahtzee\YahtzeeGame_Project\bin\Debug\net8.0-windows\System.Memory.Data.dll
